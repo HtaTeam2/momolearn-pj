@@ -15,6 +15,9 @@ spring:
    include: db
   datasource: 
    driver-class-name: com.mysql.cj.jdbc.Driver
+   url: jdbc:mysql://localhost/momo?characterEncoding=UTF-8
+   username: root
+   password: 1218
   jpa:
     database: mysql
     database-platform: org.hibernate.dialect.MySQL8Dialect
