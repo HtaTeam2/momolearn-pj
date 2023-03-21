@@ -15,7 +15,6 @@ import com.momolearn.model.BoardRepository;
 import com.momolearn.model.dto.BoardDTO;
 import com.momolearn.model.entity.Board;
 
-
 @Service
 public class BoardService {
 	

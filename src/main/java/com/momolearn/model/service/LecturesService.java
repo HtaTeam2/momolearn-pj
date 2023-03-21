@@ -11,12 +11,13 @@ import com.momolearn.model.TeachersRepository;
 public class LecturesService {
 	
 	@Autowired
-	private TeachersRepository teachersDAO;
+	private TeachersRepository teachersRepository;
 	
 	@Autowired
-	private LecturesRepository lecturesDAO;
+	private LecturesRepository lecturesRepository;
 	
 	@Autowired
-	private CoursesRepository coursesDAO;
+	private CoursesRepository coursesRepository;
+
 
 }
