@@ -148,7 +148,7 @@
 
 ### 6. <a name="community">[게시판](#2)</a>
 #### (1) 커뮤니티
-![게시판_커뮤니티](https://user-images.githubusercontent.com/117498827/230266186-db556184-1471-4e07-95cb-a90a7a01be2d.gif)
+![커뮤니티](https://user-images.githubusercontent.com/122508872/231379842-1dbe3303-e59a-4c9e-9b40-f36727a750c9.gif)
 ⚡전체 등급이 읽기/작성/수정/삭제가 가능하며, 수정과 삭제는 작성자만 가능합니다.<br>
 ⚡속성별로 조회가 가능하며, 페이지당 게시글 10개까지 조회합니다.<br>
 ⚡상단에는 실시간 인기글이 5개씩 노출됩니다.<br>
